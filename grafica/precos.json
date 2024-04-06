@@ -1,0 +1,1005 @@
+{
+    "quantidade_preco": [
+        {
+            "nome": "Acucar em Kilo KG",
+            "preco": 900,
+            "quantidade": 1
+        },
+        {
+            "nome": "Acucar em Pacote Tio Lucas",
+            "preco": 950,
+            "quantidade": 1
+        },
+        {
+            "nome": "Agua Grande",
+            "preco": 300,
+            "quantidade": 1
+        },
+        {
+            "nome": "Agua Pequena",
+            "preco": 150,
+            "quantidade": 1
+        },
+        {
+            "nome": "Arroz em Kilo KG",
+            "preco": 12,
+            "quantidade": 1
+        },
+        {
+            "nome": "Arroz Tio Lucas",
+            "preco": 850,
+            "quantidade": 1
+        },
+        {
+            "nome": "Atum Polo Star",
+            "preco": 1000,
+            "quantidade": 1
+        },
+        {
+            "nome": "Azeite Doce",
+            "preco": 1600,
+            "quantidade": 1
+        },
+        {
+            "nome": "Bangaco em Pacote",
+            "preco": 50,
+            "quantidade": 1
+        },
+        {
+            "nome": "Bebida Energetica Exo",
+            "preco": 750,
+            "quantidade": 1
+        },
+        {
+            "nome": "Bebida Energetica Faris",
+            "preco": 300,
+            "quantidade": 1
+        },
+        {
+            "nome": "Bebida Energetica Vody",
+            "preco": 800,
+            "quantidade": 1
+        },
+        {
+            "nome": "Best Wisk em Pacote",
+            "preco": 130,
+            "quantidade": 1
+        },
+        {
+            "nome": "Biscoito",
+            "preco": 60,
+            "quantidade": 1
+        },
+        {
+            "nome": "Bocal",
+            "preco": 200,
+            "quantidade": 1
+        },
+        {
+            "nome": "Bolacha Agua e Sal Likon Lykon",
+            "preco": 170,
+            "quantidade": 1
+        },
+        {
+            "nome": "Bolacha Agua e Sal Pequena",
+            "preco": 100,
+            "quantidade": 1
+        },
+        {
+            "nome": "Bolacha Agua e Sal Serranita",
+            "preco": 200,
+            "quantidade": 1
+        },
+        {
+            "nome": "Bolacha Benta Pequena",
+            "preco": 50,
+            "quantidade": 1
+        },
+        {
+            "nome": "Bolacha Catalina",
+            "preco": 100,
+            "quantidade": 1
+        },
+        {
+            "nome": "Bolacha Glucose",
+            "preco": 700,
+            "quantidade": 1
+        },
+        {
+            "nome": "Bolacha Hipopo",
+            "preco": 250,
+            "quantidade": 1
+        },
+        {
+            "nome": "Bolacha Integral",
+            "preco": 250,
+            "quantidade": 1
+        },
+        {
+            "nome": "Bolacha Manteiga Grande",
+            "preco": 200,
+            "quantidade": 1
+        },
+        {
+            "nome": "Bolacha Manteiga Pequena",
+            "preco": 7,
+            "quantidade": 1
+        },
+        {
+            "nome": "Bolacha Yumo",
+            "preco": 100,
+            "quantidade": 1
+        },
+        {
+            "nome": "Borracha de Trancas",
+            "preco": 60,
+            "quantidade": 1
+        },
+        {
+            "nome": "Bufalo",
+            "preco": 500,
+            "quantidade": 1
+        },
+        {
+            "nome": "Cabeca em Pacote",
+            "preco": 60,
+            "quantidade": 1
+        },
+        {
+            "nome": "Caderno Grande",
+            "preco": 300,
+            "quantidade": 1
+        },
+        {
+            "nome": "Caderno Pequeno",
+            "preco": 200,
+            "quantidade": 1
+        },
+        {
+            "nome": "Caferum em Pacote",
+            "preco": 60,
+            "quantidade": 1
+        },
+        {
+            "nome": "Caldo Adja",
+            "preco": 50,
+            "quantidade": 1
+        },
+        {
+            "nome": "Caldo Adja",
+            "preco": 50,
+            "quantidade": 1
+        },
+        {
+            "nome": "Caldo Jumbo",
+            "preco": 50,
+            "quantidade": 1
+        },
+        {
+            "nome": "Caldo Jumbo",
+            "preco": 50,
+            "quantidade": 1
+        },
+        {
+            "nome": "Cerveja Booster em Garrafa",
+            "preco": 250,
+            "quantidade": 1
+        },
+        {
+            "nome": "Cerveja Booster em Lata",
+            "preco": 450,
+            "quantidade": 1
+        },
+        {
+            "nome": "Cerveja Dopel",
+            "preco": 250,
+            "quantidade": 1
+        },
+        {
+            "nome": "Cerveja Eka em Garrafa",
+            "preco": 250,
+            "quantidade": 1
+        },
+        {
+            "nome": "Cerveja Tigra em Garrafa",
+            "preco": 230,
+            "quantidade": 1
+        },
+        {
+            "nome": "Cha em Pacote",
+            "preco": 40,
+            "quantidade": 1
+        },
+        {
+            "nome": "Chocolate Grande",
+            "preco": 500,
+            "quantidade": 1
+        },
+        {
+            "nome": "Chocolate Rebucado",
+            "preco": 16,
+            "quantidade": 1
+        },
+        {
+            "nome": "Chourico Sicasal",
+            "preco": 750,
+            "quantidade": 1
+        },
+        {
+            "nome": "Chourico UAU",
+            "preco": 750,
+            "quantidade": 1
+        },
+        {
+            "nome": "Cigarro Albon",
+            "preco": 50,
+            "quantidade": 1
+        },
+        {
+            "nome": "Cigarro Aspen",
+            "preco": 50,
+            "quantidade": 1
+        },
+        {
+            "nome": "Cigarro Supermuch",
+            "preco": 50,
+            "quantidade": 1
+        },
+        {
+            "nome": "Clicilina Platico",
+            "preco": 300,
+            "quantidade": 1
+        },
+        {
+            "nome": "Coca Cola em Bidom",
+            "preco": 250,
+            "quantidade": 1
+        },
+        {
+            "nome": "Coca Cola em Bidom",
+            "preco": 50,
+            "quantidade": 1
+        },
+        {
+            "nome": "Conserva Bill Beef",
+            "preco": 900,
+            "quantidade": 1
+        },
+        {
+            "nome": "Conserva Montex",
+            "preco": 700,
+            "quantidade": 1
+        },
+        {
+            "nome": "Conserva Ngusso",
+            "preco": 700,
+            "quantidade": 1
+        },
+        {
+            "nome": "Conserva Texana",
+            "preco": 1300,
+            "quantidade": 1
+        },
+        {
+            "nome": "Conseva Ngusso",
+            "preco": 600,
+            "quantidade": 1
+        },
+        {
+            "nome": "Corda de Roupa",
+            "preco": 500,
+            "quantidade": 1
+        },
+        {
+            "nome": "Cotonete",
+            "preco": 200,
+            "quantidade": 1
+        },
+        {
+            "nome": "Creme Bom Fami Gr",
+            "preco": 700,
+            "quantidade": 1
+        },
+        {
+            "nome": "Creme Bom Fami Pequeno",
+            "preco": 650,
+            "quantidade": 1
+        },
+        {
+            "nome": "Creme Bonita",
+            "preco": 650,
+            "quantidade": 1
+        },
+        {
+            "nome": "Creme Bravia",
+            "preco": 1050,
+            "quantidade": 1
+        },
+        {
+            "nome": "Creme Ela +",
+            "preco": 1000,
+            "quantidade": 1
+        },
+        {
+            "nome": "Creme Familiar",
+            "preco": 700,
+            "quantidade": 1
+        },
+        {
+            "nome": "Creme Nova Grande",
+            "preco": 1000,
+            "quantidade": 1
+        },
+        {
+            "nome": "Creme Nova Medio",
+            "preco": 1000,
+            "quantidade": 1
+        },
+        {
+            "nome": "Descartavel Nody",
+            "preco": 70,
+            "quantidade": 1
+        },
+        {
+            "nome": "Descartavel Suave",
+            "preco": 120,
+            "quantidade": 1
+        },
+        {
+            "nome": "Epiderm Grande",
+            "preco": 550,
+            "quantidade": 1
+        },
+        {
+            "nome": "Epiderm Pequeno",
+            "preco": 350,
+            "quantidade": 1
+        },
+        {
+            "nome": "Escova de Dentes Infantil",
+            "preco": 150,
+            "quantidade": 1
+        },
+        {
+            "nome": "Escova de Dentes Normal",
+            "preco": 200,
+            "quantidade": 1
+        },
+        {
+            "nome": "Escova de Lavar Roupa",
+            "preco": 300,
+            "quantidade": 1
+        },
+        {
+            "nome": "Escova de Roupa Grande",
+            "preco": 300,
+            "quantidade": 1
+        },
+        {
+            "nome": "Escova de Roupa Media",
+            "preco": 250,
+            "quantidade": 1
+        },
+        {
+            "nome": "Esferografica Bravo",
+            "preco": 70,
+            "quantidade": 1
+        },
+        {
+            "nome": "Esferografica Bravo",
+            "preco": 70,
+            "quantidade": 1
+        },
+        {
+            "nome": "Esferografica Normal",
+            "preco": 50,
+            "quantidade": 1
+        },
+        {
+            "nome": "Esfregao Fino",
+            "preco": 150,
+            "quantidade": 1
+        },
+        {
+            "nome": "Esfregao Grosso",
+            "preco": 50,
+            "quantidade": 1
+        },
+        {
+            "nome": "Espelho",
+            "preco": 300,
+            "quantidade": 1
+        },
+        {
+            "nome": "Esqueiro",
+            "preco": 150,
+            "quantidade": 1
+        },
+        {
+            "Column1": " ",
+            "nome": "Estojo",
+            "preco": 650,
+            "quantidade": 1
+        },
+        {
+            "nome": "Faca Grande",
+            "preco": 400,
+            "quantidade": 1
+        },
+        {
+            "nome": "Fanta em Lata",
+            "preco": 400,
+            "quantidade": 1
+        },
+        {
+            "nome": "Fita Cola",
+            "preco": 600,
+            "quantidade": 1
+        },
+        {
+            "nome": "Fita Isoladora",
+            "preco": 150,
+            "quantidade": 1
+        },
+        {
+            "nome": "Fosforo",
+            "preco": 50,
+            "quantidade": 1
+        },
+        {
+            "nome": "Garoto",
+            "preco": 130,
+            "quantidade": 1
+        },
+        {
+            "nome": "Gasosa Blue em Bidon",
+            "preco": 150,
+            "quantidade": 1
+        },
+        {
+            "nome": "Gasosa Blue em Lata",
+            "preco": 350,
+            "quantidade": 1
+        },
+        {
+            "nome": "Gasosa Planeta",
+            "preco": 180,
+            "quantidade": 1
+        },
+        {
+            "nome": "Gel Grande",
+            "preco": 850,
+            "quantidade": 1
+        },
+        {
+            "nome": "Gel Pequeno",
+            "preco": 700,
+            "quantidade": 1
+        },
+        {
+            "nome": "Gin em Garrafa",
+            "preco": 350,
+            "quantidade": 1
+        },
+        {
+            "nome": "Gin Gordon em Lata",
+            "preco": 600,
+            "quantidade": 1
+        },
+        {
+            "nome": "Guardanapo",
+            "preco": 350,
+            "quantidade": 1
+        },
+        {
+            "nome": "Ice em Lata (Sminorf)",
+            "preco": 550,
+            "quantidade": 1
+        },
+        {
+            "nome": "Lamina",
+            "preco": 50,
+            "quantidade": 1
+        },
+        {
+            "nome": "Lampada",
+            "preco": 200,
+            "quantidade": 1
+        },
+        {
+            "nome": "Lanterna Grande",
+            "preco": 900,
+            "quantidade": 1
+        },
+        {
+            "nome": "Lanterna Media",
+            "preco": 500,
+            "quantidade": 1
+        },
+        {
+            "nome": "Lanterna Pequena",
+            "preco": 400,
+            "quantidade": 1
+        },
+        {
+            "nome": "Lapis",
+            "preco": 50,
+            "quantidade": 1
+        },
+        {
+            "nome": "Leite em Pacote",
+            "preco": 100,
+            "quantidade": 1
+        },
+        {
+            "nome": "Leite em Remedio",
+            "preco": 25,
+            "quantidade": 1
+        },
+        {
+            "nome": "Leite Kiame",
+            "preco": 750,
+            "quantidade": 1
+        },
+        {
+            "nome": "Leite Moca",
+            "preco": 1000,
+            "quantidade": 1
+        },
+        {
+            "nome": "Leite Ngusso",
+            "preco": 750,
+            "quantidade": 1
+        },
+        {
+            "nome": "Leite Uami",
+            "preco": 750,
+            "quantidade": 1
+        },
+        {
+            "nome": "Linha Brasil",
+            "preco": 100,
+            "quantidade": 1
+        },
+        {
+            "nome": "Lixivia",
+            "preco": 600,
+            "quantidade": 1
+        },
+        {
+            "nome": "Manteiga em Pacote",
+            "preco": 450,
+            "quantidade": 1
+        },
+        {
+            "nome": "Massa Adria",
+            "preco": 320,
+            "quantidade": 1
+        },
+        {
+            "nome": "Massa de Tomate Grande",
+            "preco": 500,
+            "quantidade": 1
+        },
+        {
+            "nome": "Massa de Tomate Pequena",
+            "preco": 150,
+            "quantidade": 1
+        },
+        {
+            "nome": "Massa Espiral",
+            "preco": 280,
+            "quantidade": 1
+        },
+        {
+            "nome": "Massa Macarrao",
+            "preco": 280,
+            "quantidade": 1
+        },
+        {
+            "nome": "Massa Novo Gosto",
+            "preco": 320,
+            "quantidade": 1
+        },
+        {
+            "nome": "Massa Nsri",
+            "preco": 320,
+            "quantidade": 1
+        },
+        {
+            "nome": "Massa Primavera",
+            "preco": 320,
+            "quantidade": 1
+        },
+        {
+            "nome": "Massa Tio Lucas",
+            "preco": 300,
+            "quantidade": 1
+        },
+        {
+            "nome": "Mentol",
+            "preco": 10,
+            "quantidade": 1
+        },
+        {
+            "nome": "Mola Roupa",
+            "preco": 400,
+            "quantidade": 1
+        },
+        {
+            "nome": "Mu Nivea",
+            "preco": 700,
+            "quantidade": 1
+        },
+        {
+            "nome": "Mu Rush",
+            "preco": 1750,
+            "quantidade": 1
+        },
+        {
+            "nome": "Mu Spa",
+            "preco": 700,
+            "quantidade": 1
+        },
+        {
+            "nome": "Nestum em Pacote",
+            "preco": 200,
+            "quantidade": 1
+        },
+        {
+            "nome": "Oleo de Palma",
+            "preco": 1750,
+            "quantidade": 1
+        },
+        {
+            "nome": "Oleo Fula",
+            "preco": 1800,
+            "quantidade": 1
+        },
+        {
+            "nome": "Oleo Jersey",
+            "preco": 1550,
+            "quantidade": 1
+        },
+        {
+            "nome": "Oleo Maxima",
+            "preco": 1600,
+            "quantidade": 1
+        },
+        {
+            "nome": "Oleo Medio",
+            "preco": 1000,
+            "quantidade": 1
+        },
+        {
+            "nome": "Oleo Pequeno",
+            "preco": 550,
+            "quantidade": 1
+        },
+        {
+            "nome": "Oleo Santa Clara",
+            "preco": 1800,
+            "quantidade": 1
+        },
+        {
+            "nome": "Oleo Tio Lucas",
+            "preco": 1600,
+            "quantidade": 1
+        },
+        {
+            "nome": "Omo Grande",
+            "preco": 400,
+            "quantidade": 1
+        },
+        {
+            "nome": "Omo Pequeno",
+            "preco": 50,
+            "quantidade": 1
+        },
+        {
+            "nome": "Ovo",
+            "preco": 120,
+            "quantidade": 1
+        },
+        {
+            "nome": "Paliteiro",
+            "preco": 200,
+            "quantidade": 1
+        },
+        {
+            "nome": "Papel Higienico",
+            "preco": 100,
+            "quantidade": 1
+        },
+        {
+            "nome": "Pastilha do Pacote",
+            "preco": 50,
+            "quantidade": 1
+        },
+        {
+            "nome": "Pastilha Grande",
+            "preco": 66,
+            "quantidade": 1
+        },
+        {
+            "nome": "Pastilha Media",
+            "preco": 25,
+            "quantidade": 1
+        },
+        {
+            "nome": "Pastilha Pequena",
+            "preco": 10,
+            "quantidade": 1
+        },
+        {
+            "nome": "Pepsodente Grande",
+            "preco": 950,
+            "quantidade": 1
+        },
+        {
+            "nome": "Pepsodente Medio",
+            "preco": 750,
+            "quantidade": 1
+        },
+        {
+            "nome": "Pepsodente Pequeno",
+            "preco": 600,
+            "quantidade": 1
+        },
+        {
+            "nome": "Pilha Grande",
+            "preco": 150,
+            "quantidade": 1
+        },
+        {
+            "nome": "Pilha Grande",
+            "preco": 150,
+            "quantidade": 1
+        },
+        {
+            "nome": "Pilha Pequena",
+            "preco": 150,
+            "quantidade": 1
+        },
+        {
+            "nome": "Po Candern",
+            "preco": 450,
+            "quantidade": 1
+        },
+        {
+            "nome": "Po Rox",
+            "preco": 400,
+            "quantidade": 1
+        },
+        {
+            "nome": "Pomada de Sapato",
+            "preco": 400,
+            "quantidade": 1
+        },
+        {
+            "nome": "Pomada Top Preta",
+            "preco": 300,
+            "quantidade": 1
+        },
+        {
+            "nome": "Postico Abela",
+            "preco": 800,
+            "quantidade": 1
+        },
+        {
+            "nome": "Postico jasmim",
+            "preco": 800,
+            "quantidade": 1
+        },
+        {
+            "nome": "Postico Joy",
+            "preco": 800,
+            "quantidade": 1
+        },
+        {
+            "nome": "Postico Jumbu",
+            "preco": 600,
+            "quantidade": 1
+        },
+        {
+            "nome": "Postico Kima",
+            "preco": 800,
+            "quantidade": 1
+        },
+        {
+            "nome": "Punho Trancas Grande",
+            "preco": 50,
+            "quantidade": 1
+        },
+        {
+            "nome": "Punho Trancas Grande",
+            "preco": 50,
+            "quantidade": 1
+        },
+        {
+            "nome": "Rebucado",
+            "preco": 12.5,
+            "quantidade": 1
+        },
+        {
+            "nome": "Rebucado Grande",
+            "preco": 50,
+            "quantidade": 1
+        },
+        {
+            "nome": "Sabao Grande",
+            "preco": 200,
+            "quantidade": 1
+        },
+        {
+            "nome": "Sabao Pequeno",
+            "preco": 100,
+            "quantidade": 1
+        },
+        {
+            "nome": "Sabonete",
+            "preco": 300,
+            "quantidade": 1
+        },
+        {
+            "nome": "Sal em Kilo KG",
+            "preco": 200,
+            "quantidade": 1
+        },
+        {
+            "nome": "Salsicha em Pacote (Xaxobo)",
+            "preco": 800,
+            "quantidade": 1
+        },
+        {
+            "nome": "Sambapito Grande",
+            "preco": 50,
+            "quantidade": 1
+        },
+        {
+            "nome": "Sambapito Pequeno",
+            "preco": 20,
+            "quantidade": 1
+        },
+        {
+            "nome": "Sambapito Pequeno",
+            "preco": 20,
+            "quantidade": 1
+        },
+        {
+            "nome": "Sardinha",
+            "preco": 450,
+            "quantidade": 1
+        },
+        {
+            "nome": "Speed em Bidon",
+            "preco": 300,
+            "quantidade": 1
+        },
+        {
+            "nome": "Speed em Lata",
+            "preco": 550,
+            "quantidade": 1
+        },
+        {
+            "nome": "Stark em Garrafa",
+            "preco": 500,
+            "quantidade": 1
+        },
+        {
+            "nome": "Stark em Pacote",
+            "preco": 60,
+            "quantidade": 1
+        },
+        {
+            "nome": "Sumo Compal em Lata",
+            "preco": 400,
+            "quantidade": 1
+        },
+        {
+            "nome": "Sumo Fresh",
+            "preco": 50,
+            "quantidade": 1
+        },
+        {
+            "nome": "Sumo Lulu Grande",
+            "preco": 1000,
+            "quantidade": 1
+        },
+        {
+            "nome": "Sumo Palinha",
+            "preco": 150,
+            "quantidade": 1
+        },
+        {
+            "nome": "Sumo Regal em Bidon",
+            "preco": 130,
+            "quantidade": 1
+        },
+        {
+            "nome": "Sumo Regal em Copo",
+            "preco": 60,
+            "quantidade": 1
+        },
+        {
+            "nome": "Sumol em Lata",
+            "preco": 400,
+            "quantidade": 1
+        },
+        {
+            "nome": "Tangawisk em Pacote",
+            "preco": 60,
+            "quantidade": 1
+        },
+        {
+            "nome": "TCB Grande",
+            "preco": 800,
+            "quantidade": 1
+        },
+        {
+            "nome": "TCB Pqueno",
+            "preco": 650,
+            "quantidade": 1
+        },
+        {
+            "nome": "Tesoura",
+            "preco": 250,
+            "quantidade": 1
+        },
+        {
+            "nome": "Vaselina Amarela",
+            "preco": 300,
+            "quantidade": 1
+        },
+        {
+            "nome": "VaselinA Grande",
+            "preco": 500,
+            "quantidade": 1
+        },
+        {
+            "nome": "Vaselina Media",
+            "preco": 300,
+            "quantidade": 1
+        },
+        {
+            "nome": "Vaselina Pequena",
+            "preco": 150,
+            "quantidade": 1
+        },
+        {
+            "nome": "Vela",
+            "preco": 150,
+            "quantidade": 1
+        },
+        {
+            "nome": "Vinagre",
+            "preco": 250,
+            "quantidade": 1
+        },
+        {
+            "nome": "Vinho Forte Pequeno",
+            "preco": 350,
+            "quantidade": 1
+        },
+        {
+            "nome": "Vinho Fresco",
+            "preco": 1400,
+            "quantidade": 1
+        },
+        {
+            "nome": "Xatox",
+            "preco": 1200,
+            "quantidade": 1
+        },
+        {
+            "nome": "XXL",
+            "preco": 400,
+            "quantidade": 1
+        },
+        {
+            "nome": "Yogurte",
+            "preco": 250,
+            "quantidade": 1
+        }
+    ]
+}
